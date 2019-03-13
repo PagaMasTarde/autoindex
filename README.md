@@ -1,4 +1,4 @@
-Pagantis - Auto Index
+Pagantis - Auto Index - Prestashop
 =========
 
 Automatically add an "index.php" in all your directories or your zip file recursively
