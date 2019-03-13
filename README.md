@@ -1,16 +1,12 @@
-Auto Index
+Pagantis - Auto Index
 =========
 
 Automatically add an "index.php" in all your directories or your zip file recursively
 
 ## Getting Started
 
-To use this script, choose one of the following options to get started:
-* Download the latest release on Auto Index
-* Fork this repository on GitHub
-
 Use your own "index.php" file
-* Edit "index.php" file in "[sources](https://github.com/jmcollin/autoindex/tree/master/sources)" directory
+* Edit "index.php"
 
 ## Usage
 
@@ -21,16 +17,7 @@ Use your own "index.php" file
 
 ## Dependencies
 
-Only for using this tool with a **zip**
-
-(PHP 5 >= 5.2.0, PECL zip >= 1.1.0)
-
-```
-$ pecl install zip
-```
-
-## Version
-1.0.1
+PHP >5.3
 
 ## Copyright and License
 
